@@ -6,7 +6,6 @@ target 'ParticleSampleApp' do
   # use_frameworks!
 
   # Pods for ParticleSampleApp
-  pod 'Particle-SDK'
   pod 'ParticleSetup'
 
   target 'ParticleSampleAppTests' do

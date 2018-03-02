@@ -43,3 +43,7 @@ if ([[ParticleCloud sharedInstance] injectSessionAccessToken:accessToken]) {
   return;
 }
 ```
+
+## Android integration
+
+Currently, this example app deals with iOS only - but we'd love for it to support Android too. We'd be very happy for any contributors to help flesh this out - simply fork this project, start a feature branch and make a pull request!

@@ -26,7 +26,7 @@ You'll then need to build and run the app from within Xcode using the generated 
 
 In this example, we use the [Particle Device Setup Library](https://docs.particle.io/reference/ios/#particle-device-setup-library) only; this allows you to create a setup wizard inside your app for users to manually configure their Particle devices.
 
-In addition to creating the native modules `ParticleSetupBridge.m` and `ParticleSetupViewController.m` included in the sample app, you will need to install the Partilce library via [Cocoapods](https://guides.cocoapods.org/using/getting-started.html). Follow the installation instructions in the [Particle documentation](https://docs.particle.io/reference/ios/#installation-1).
+In addition to creating the native modules `ParticleSetupBridge.m` and `ParticleSetupViewController.m` (together with their header files) as per the sample app, you'll need to install the Particle library via [Cocoapods](https://guides.cocoapods.org/using/getting-started.html). Follow the installation instructions in the [Particle documentation](https://docs.particle.io/reference/ios/#installation-1).
 
 #### Particle Cloud SDK
 
